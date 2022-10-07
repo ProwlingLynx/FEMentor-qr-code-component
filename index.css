@@ -8,6 +8,8 @@ body {
     height: 100vh;
     width: 100vw;
     size: 0.9375rem;
+    font-family: "Outfit", sans-serif;
+    font-style: normal;
 }
 
 .qrContainer {
@@ -19,8 +21,8 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
-    justify-content: center;
-    gap: 1rem;
+    justify-content: flex-start;
+    gap: .5rem;
 }
 img {
     margin: 1rem;
@@ -34,13 +36,23 @@ article {
     flex-direction: column;
     justify-content: center;
     gap: 1rem;
+    margin: 0rem 1rem;
+    text-align: center;
 }
 article h1 {
     size: 1.375rem;
-    margin: 0px;
+    margin: 0px auto;
+    font-weight: 700;
+    line-height: 1.75rem;
+    width: 18rem;
 }
 article p {
     margin: 0px;
+    line-height: 1.1875rem;
+    letter-spacing: 01.1875px;
+    color: grey;
+    font-weight: 400;
+    width: 16rem;
 }
 
 .attribution { 
