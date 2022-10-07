@@ -6,13 +6,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Deployment](#deployment)
 - [My process](#my-process)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -21,6 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Desktop Screenshot](./screenshots/qr-challenge-desktop.png)
 ![Zoomed in Mobile Screenshot](./screenshots/qr-challenge-mobile.png)
 
+### Deployment
+[Live Site](https://prowlinglynx.github.io/FEMentor-qr-code-component/)
 ### Built with
 
 - Semantic HTML5 markup
